@@ -1,8 +1,10 @@
-import React from "react";
-import "./App.css";
+import React from 'react';
+import './App.css';
+
+import Home from './pages/Home';
 
 function App() {
-  return <h1>Juju Madruga</h1>;
+  return <Home />;
 }
 
 export default App;
